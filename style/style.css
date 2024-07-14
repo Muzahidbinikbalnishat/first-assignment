@@ -151,16 +151,15 @@ display: flex;
 }
 .tdf h2{
     color: rgba(13, 19, 33, 0.7);
-font-family: Azeret Mono;
-font-size: 24px;
+
+font-size: 24.01px;
 font-weight: 700;
-line-height: 36px;
+line-height: 36.01px;
 letter-spacing: 0%;
 text-align: left;
 }
 .tdf p{
     color: rgb(13, 19, 33);
-font-family: Azeret Mono;
 font-size: 16px;
 font-weight: 400;
 line-height: 26px;
@@ -172,22 +171,15 @@ opacity: 0.7;
     box-sizing: border-box;
 border: 1px solid rgb(13, 19, 33);
 opacity: 0.7;
-
 }
-
 .wqj{
     width: 223.2px;
 height: 208.85px;
-/* border: 2px solid rgb(68, 0, 255); */
 background-image: url(../assets/Group\ 3.png);
-
 }
 .obz{
     width: 477px;
 height: 220px;
-/* border: 2px solid rgb(0, 255, 234); */
-/* margin: 48.8px 10.5px 102px 9.5px ; */
-/* margin: 0 auto; */
 margin-left: 48.8px;
 margin-right: 102px;
 margin-top: 10.5px;
@@ -197,23 +189,19 @@ margin-bottom: 9.5px;
 .der{
     width: 946px;
     height: 336px;
-    /* border: 2px solid rgb(44, 12, 223); */
     margin-top: 32px;
     border-radius: 16px;
-
 background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
 }
 .ztql{
     width: 850px;
 height: 240px;
-/* border: 2px solid rgb(223, 12, 160); */
 margin: 48px;
 display: flex;
 }
 .owla{
     width: 477px;
 height: 220px;
-/* border: 2px solid yellow; */
 margin-top: 10.5px;
 margin-bottom: 9.5px;
 }
@@ -235,7 +223,6 @@ line-height: 26px;
 letter-spacing: 0%;
 text-align: left;
 opacity: 0.7;
-
 }
 .owla span{
     box-sizing: border-box;
@@ -246,8 +233,6 @@ opacity: 0.7;
 .lidi{
     width: 206.4px;
 height: 187.32px;
-/* border: 2px solid blueviolet; */
-margin-left: 149.8px;
 margin-right: 16.8;
 margin-top: 26.34px;
 background-image: url(../assets/Group\ 4.png);
