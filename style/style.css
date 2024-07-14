@@ -12,7 +12,7 @@ font-family: "Antonio", sans-serif;
     height: 652px;
     margin-top: 131px;
     /* margin: 0 auto; */
-    background-image: url("/assets/Hero-bg.png");
+    background-image: url("../assets/Hero-bg.png");
     
 }
 .aa{
@@ -35,7 +35,7 @@ margin-bottom: 74px;
     margin: 0 auto;
     /* border: 2px solid red; */
     /* margin-top: 20px; */
-    background-image: url("/assets/Group.png");
+    background-image: url("../assets/Group.png");
 }
 
 
@@ -179,7 +179,7 @@ opacity: 0.7;
     width: 223.2px;
 height: 208.85px;
 /* border: 2px solid rgb(68, 0, 255); */
-background-image: url(/assets/Group\ 3.png);
+background-image: url(../assets/Group\ 3.png);
 
 }
 .obz{
@@ -250,7 +250,7 @@ height: 187.32px;
 margin-left: 149.8px;
 margin-right: 16.8;
 margin-top: 26.34px;
-background-image: url(/assets/Group\ 4.png);
+background-image: url(../assets/Group\ 4.png);
 }
 .sabit{
     width: 477px;
@@ -289,7 +289,7 @@ opacity: 0.7;
 height: 217.01px;
 /* border: 2px solid rgb(226, 43, 43); */
 margin: 48px;
-background-image: url(/assets/Layer_1.png);
+background-image: url(../assets/Layer_1.png);
 }
 .hit{
     width: 1140px;
@@ -451,7 +451,7 @@ line-height: 19px;
     width: 1140px;
     height: 314px;
     position: relative;
-background-image: url(/assets/handshake.jpg);
+background-image: url(../assets/handshake.jpg);
 background-size: contain;
 background-position: 0%;
 background-size: cover;
